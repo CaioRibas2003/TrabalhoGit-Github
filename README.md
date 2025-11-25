@@ -39,8 +39,11 @@ Todos os comandos foram executados via terminal utilizando chave SSH:
 
 ### Comandos de Caio Ribas
 -git clone ...URL...
+
 -git add .
+
 -git commit -m "Criar classe, atributo, e scanner"
+
 -git push -u origin main
 
 ### Comandos de Ciclana
