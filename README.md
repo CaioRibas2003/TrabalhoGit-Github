@@ -15,8 +15,8 @@ Desenvolver colaborativamente um sistema que recebe um número e identifica se e
 - Como criou?
   Acessei o github, fui em criar repositório, dei a ele um nome e optei por adicionar um readMe no processo de criação
   
-- Como Configurou o Git? não deixe exposto sua chave.
-  Com o git e chaves já configuradas em meu PC, em meu repositório fui em "code", "SSH" e copiei este URL.
+- Como Configurou o Git?
+  Com o git e chaves já configuradas em meu PC, em meu repositório fui em "code", "SSH" e copiei a URL.
   No IntelliJ clonei o repositório usando a URL
   
 - Criei um modulo java e criei a nossa classe ParOuImpar, juntamento com o atributo int numero e instanciei o scanner para leitura do número
