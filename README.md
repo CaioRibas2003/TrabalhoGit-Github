@@ -23,6 +23,7 @@ Desenvolver colaborativamente um sistema que recebe um número e identifica se e
 
 ### Brian Costa
 - Como Configurou o Git? não deixe exposto sua chave.
+
   compuni@maker262 MINGW64 ~
 $ git config --global user.name "Brian Costa"
 
