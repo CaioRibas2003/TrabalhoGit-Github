@@ -112,6 +112,8 @@ git pull
 
 git add .
 
+git commit -m "Implementacao do metodo classificarNumero"
+
 git push -u origin main
 
 
