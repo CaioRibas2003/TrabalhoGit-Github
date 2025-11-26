@@ -72,9 +72,9 @@ Hi briancosta-px! You've successfully authenticated, but GitHub does not provide
  
 
 ### Fernando Teixeira
-- Como Configurou o Git? não deixe exposto sua chave.
-- Fez `git pull` após o commit de Ciclana.
-- Finalizou o algoritmo com lógica . . .
+- O git já estava previamente configurado em minha máquina, entao eu usei o git clone utilizando a chave SSH para clonar o projeto do Caio
+- Fiz um git pull depois do commit do Brian.
+- Finalizei implementando um metodo que recebe um número inteiro qualquer, e retorna se ele é um número par ou impar
 
 
 ## Comandos utilizados
@@ -104,6 +104,15 @@ Todos os comandos foram executados via terminal utilizando chave SSH:
 -git pull depois para ver versão final do código
 
 ### Comandos de Fernando Teixeira
+-git clone URL_PROJETO
+
+cd TrabalhoGit-Github
+
+git pull
+
+git add .
+
+git push -u origin main
 
 
 ## Observações
