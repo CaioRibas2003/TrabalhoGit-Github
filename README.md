@@ -46,6 +46,8 @@ Todos os comandos foram executados via terminal utilizando chave SSH:
 
 -git push -u origin main
 
+-git pull depois para ver as alterações feitas pelos outros
+
 ### Comandos de Ciclana
 
 ### Comandos de beltrano
