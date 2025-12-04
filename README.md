@@ -120,3 +120,4 @@ git push -u origin main
 ## Observações
 Cada etapa foi realizada por apenas um integrante por vez, 
 respeitando a ordem de commits e a integridade do código.
+Cada usuário atualizou sua respectiva parte do README com os comandos utilizados e a configuração do Git
